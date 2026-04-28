@@ -18,7 +18,3 @@ Sou um desenvolvedor que atua na área de automação, inteligência artificial 
 ![IA](https://img.shields.io/badge/-IA-05122A?style=flat)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
 
-## 📫 Entre em contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvarengaleoo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alvarengaleoo@gmail.com)
