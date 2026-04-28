@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e automaçõ
 Sou um desenvolvedor que atua na área de automação, inteligência artificial e análise de dados. Gosto de resolver problemas do dia a dia com soluções inovadoras e tecnologia.
 
 - 🚀 Explorando novas tecnologias e aprimorando minhas habilidades  
-- 🤖 Interesse especial em *IA, Automação e Data Science*  
+- 🤖 Interesse especial em *Inteligência Artificial, Automação e Data Science*  
 - 💻 Trabalhando com *Python, SQL, LangChain e Bancos de Dados*  
 - 📚 Sempre aprendendo e evoluindo.  
 
