@@ -17,7 +17,6 @@ Sou um desenvolvedor que atua na área de automação, inteligência artificial 
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat)
 ![IA](https://img.shields.io/badge/-IA-05122A?style=flat)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 
 ## 📫 Entre em contato
 
